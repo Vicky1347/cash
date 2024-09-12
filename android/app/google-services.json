@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945192440891",
+    "project_id": "notecheak",
+    "storage_bucket": "notecheak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945192440891:android:d9da6c4ded2f1969bff81e",
+        "android_client_info": {
+          "package_name": "com.example.notecheak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lnk3NjXVE9HgI6Irut_5iyCzVoGbX_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
