@@ -11,20 +11,23 @@ CashGuard is a cross-platform mobile application built with Flutter, designed to
 
 ## Screenshots
 
-### App Home Screen
-![CashGuard Home Screen](https://raw.githubusercontent.com/yourusername/yourrepository/main/photo_2024-09-12_21-13-44.jpg)
-
-### Currency Verification in Action
-![Currency Verification](https://raw.githubusercontent.com/yourusername/yourrepository/main/photo_2024-09-12_21-13-47.jpg)
-
-### Detailed Results Display
-![Detailed Results Display](https://raw.githubusercontent.com/yourusername/yourrepository/main/photo_2024-09-12_21-13-52.jpg)
-
-### Comparison Results
-![Comparison Results](https://raw.githubusercontent.com/yourusername/yourrepository/main/photo_2024-09-12_21-13-54.jpg)
-
-### Final Authenticity Check
-![Final Authenticity Check](https://raw.githubusercontent.com/yourusername/yourrepository/main/photo_2024-09-12_21-14-01.jpg)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/894bbba3-d756-47a0-a40e-6f3da24a557f" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/cd29a904-8330-4af9-90c9-c5a079b6e0d5" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/b18c9f0c-d8b5-4615-9c63-978e11762f9e" width="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a4827376-d979-4f93-9a86-17afe787c025" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/dd2122c6-b96f-40cd-ae60-31d8f4713469" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/6e17ce12-e2fc-40e0-96e7-b9ac54a0a56d" width="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3a712499-f24b-4c8d-9b38-2e14d75b1cc7" width="250" /></td>
+    <td><img src="https://github.com/user-attachments/assets/2a5e7489-5bff-4545-9435-86cd6ffcccea" width="250" /></td>
+    <td></td>
+  </tr>
+</table>
 
 ## How It Works
 
